@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HappyPineapples!
 - 👀 I’m interested making robots
 - 🌱 I’m currently learning ros2
-- 💞️ I’m looking to graduating from college
+- 💞️ I’m looking forward to graduating from college
 - 📫 My Discord is happypineapples if you want to see what I'm up to.
 
 <!---
